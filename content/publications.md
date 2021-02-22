@@ -9,7 +9,7 @@ sort: 4
 
 - D Nayak, D P Achary, P K Rout, U Nanda, "Design and analysis of variability aware FinFET-based SRAM circuit design" in VLSI and Post-CMOS Electronics, Vol. 2: Devices, circuits and interconnects, (IET), Chapter 6, pp.101-122. 2019
 
-- U. Nanda, D. Nayak, S. K. Pattnaik, S. K. Swain, S. M. Biswal and B. Biswal, "Design and Performance Analysis of Current Starved Voltage Controlled Oscillator" in Microelectronics, Electromagnetics and Telecommunications, (Springer ), pp. 235-246. 2019
+- U. Nanda, D. Nayak, S. K. Pattnaik, S. K. Swain, S. M. Biswal and B. Biswal, "Design and Performance Analysis of Current Starved Voltage Controlled Oscillator" in Microelectronics, Electromagnetics and Telecommunications, (**Springer** ), pp. 235-246. 2019
 
 - S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conferenceon Device and circuits (IEEE ), pp. 37-41, Feb.  2016, Odisha,India
 
