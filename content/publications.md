@@ -16,9 +16,7 @@ sort: 4
 ## Journals
 
 -	U. Nanda, D.P. Acharya, D. Nayak, P.K. Rout, “Modelling and Optimization of Phase Locked Loop under Constrained Channel Length and Width of MOSFETs”, Silicon (**Springer**), (Accepted author version posted online: 28 Jan 2021) (**SCI Impact Factor 1.499**)
-
 -	U. Nanda, D.P. Acharya, D. Nayak, “Process Variation Tolerant Wide-band Fast PLL with Reduced Phase Noise using Adaptive Duty Cycle Control Strategy”, International Journal of Electronics(**Taylor & Francis**), (Accepted author version posted online: 07 Jul 2020), (**SCI Impact Factor 1.004**)
-
 -	D. Nayak, P. K. Rout, S. Sahu, D.P. Acharya, U. Nanda, D. Tripathy, “A novel indirect read technique based SRAM with ability to charge recycle and differential read for low power consumption, high stability and performance”, Microelectronics Journal (**Elsevier**), vol. 97, pp. 01-11, Mar 2020. (**SCI Impact Factor 1.405**)
 -	D. Nayak, D.P. Acharya, P. K. Rout, U. Nanda, “A Novel Charge Recycle Read Write Assist Technique for Energy Efficient and Fast 20nm 8T-SRAM Array”, Solid-State Electronics (**Elsevier**), vol. 148, pp. 43-50, Oct 2018. (**SCI Impact Factor 1.437**)
 -	U. Nanda, D.P. Acharya, D. Nayak, P.K. Rout, “High performance PLL for multiband GSM applications”, International Journal of Nanoparticles (**Inderscience**), vol. 10, no. 3, pp. 244-258, Aug 2018, (**Scopus, SCImago Journal Rank 0.121**)
