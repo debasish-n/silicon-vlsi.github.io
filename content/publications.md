@@ -11,7 +11,7 @@ sort: 4
 
 - U. Nanda, D. Nayak, S. K. Pattnaik, S. K. Swain, S. M. Biswal and B. Biswal, "Design and Performance Analysis of Current Starved Voltage Controlled Oscillator" in Microelectronics, Electromagnetics and Telecommunications, (**Springer**), pp. 235-246. 2019
 
-- S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conferenceon Device and circuits (**IEEE** ), pp. 37-41, Feb.  2016, Odisha,India
+- S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conference on Device and circuits (**IEEE** ), pp. 37-41, Feb.  2016, Odisha,India
 
 ## Journals
 
