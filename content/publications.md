@@ -13,6 +13,8 @@ sort: 4
 
 - S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conferenceon Device and circuits (IEEE ), pp. 37-41, Feb.  2016, Odisha,India
 
+-	U. Nanda, D.P. Acharya, D. Nayak, “Process Variation Tolerant Wide-band Fast PLL with Reduced Phase Noise using Adaptive Duty Cycle Control Strategy”, International Journal of Electronics(Taylor & Francis), (Accepted author version posted online: 07 Jul 2020), (SCI Impact Factor 1.004)
+
 ## Journals
 
 - D. Nayak, D.P. Acharya, K. Mahapatra, "An improved energy efficient SRAM cell for access over a wide frequency range", Solid-State Electronics (Elsevier), vol. 126, pp.  14-22, Dec 2016. (SCI Impact Factor 1.437).
