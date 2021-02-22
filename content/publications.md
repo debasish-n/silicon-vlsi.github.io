@@ -27,7 +27,7 @@ sort: 4
 -	J Sarangi, Umakanta Nanda, P.K. Rout, “Study of Recent Charge Pump Circuits in Phase Locked Loop”,	International Journal of Modern Education and Computer Science, vol. 8, pp- 59-65, Aug 2016. 
 -	P.K.Rout, D.P. Acharya and G. Panda "Fast Physical Design of CMOS ROs for Optimal Performance using Constrained NSGA-II" AEU - International Journal of Electronics and Communications, **Elsevier**, vol-69 , pp. 1233–1242, May 2015, (**SCI Impact Factor 2.924**).
 -	P.K.Rout, D.P. Acharya and G. Panda, "Design of Optimal Nano-CMOS Differential VCO for RF Applications" International Journal of Circuits and Architecture Design ( IJCAD) Inderscience, vol. 1, No.3  pp. 242 – 257, April, 2014.  
--	P.K.Rout, B.P.Panda, D.P. Acharya and G. Panda, "Analysis and Design of a 1GHz PLL for Fast Phase and Frequency Acquisition" International Journal of Signal and Imaging Systems Engineering (IJSISE)-2011 Publisher – **Inderscience**. vol. 7 No. 1 Pages:30-37, 2014
+-	P.K.Rout, B.P.Panda, D.P. Acharya and G. Panda, "Analysis and Design of a 1GHz PLL for Fast Phase and Frequency Acquisition" International Journal of Signal and Imaging Systems Engineering (IJSISE)  (**Inderscience**) vol. 7 No. 1 Pages:30-37, 2014
 -	P.K.Rout, D.P. Acharya and G. Panda "A Multiobjective Optimization Based Fast and Robust Design Methodology for Low Power and Low Phase Noise Current Starved VCO" **IEEE Transaction on Semiconductor Manufacturing**, vol-27, no-1, pp. 43-50, Feb. 2014. (**SCI Impact Factor 1.977**)
 -	P.K.Rout, D.P. Acharya and G. Panda, “Design of a Novel Current Starved VCO via Constrained Geometric Programming" International Journal of Computer Applications (IJCA), vol-3, pp.37-40, 2011.
 
