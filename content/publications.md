@@ -5,13 +5,13 @@ sort: 4
 
 ## Books/Chapters
 
+- U. Nanda, D. P. Acharya, P.K. Rout, D. Nayak, B. Jena, "Performance-Linked Phased- Locked Loop Architectures: Recent Developments" in Advanced VLSI Design and Testability Issues, (CRC Press), pp. 271-285, 
+
+- U. Nanda, D. Nayak, S. K. Pattnaik, S. K. Swain, S. M. Biswal and B. Biswal, "Design and Performance Analysis of Current Starved Voltage Controlled Oscillator" in Microelectronics, Electromagnetics and Telecommunications, (Springer ), pp. 235-246. 
+
 - D Nayak, D P Achary, P K Rout, U Nanda, "Design and analysis of variability aware FinFET-based SRAM circuit design" in VLSI and Post-CMOS Electronics, Vol. 2: Devices, circuits and interconnects, (IET), Chapter 6, pp.101-122.
 
-2.	U. Nanda, D. Nayak, S. K. Pattnaik, S. K. Swain, S. M. Biswal and B. Biswal, "Design and Performance Analysis of Current Starved Voltage Controlled Oscillator" in Microelectronics, Electromagnetics and Telecommunications, (Springer ), pp. 235-246. 
-
-3.	U. Nanda, D. P. Acharya, P.K. Rout, D. Nayak, B. Jena, "Performance-Linked Phased- Locked Loop Architectures: Recent Developments" in Advanced VLSI Design and Testability Issues, (CRC Press), pp. 271-285, 
-
-1.S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conferenceon Device and circuits (IEEE ), pp. 37-41, Feb.  2016, Odisha,India
+- S.S.Rout, D.Tripathy,K.Sethi, "An improved bulk injection cascode mixer for receiver frontend " in National Conferenceon Device and circuits (IEEE ), pp. 37-41, Feb.  2016, Odisha,India
 
 ## Journals
 
